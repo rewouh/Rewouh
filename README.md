@@ -9,7 +9,7 @@ I like challenging myself harder and harder, discovering new tools and everythin
 <br>
 <br>
 
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Rewouh&bg_color=30,ff6196,f0c76e&title_color=fff&text_color=fff)
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Rewouh&bg_color=30,96294d,f0c76e&title_color=fff&text_color=fff)
 
 ### know-how
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
