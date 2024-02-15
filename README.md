@@ -1,7 +1,4 @@
-# Hey! Take a look
-
 <div align='center'>
-<img src="https://i.redd.it/thj41ymmh0351.gif" >
 
 ### $ whoami
 
@@ -38,10 +35,5 @@ I like challenging myself harder and harder, discovering new tools and everythin
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<br>
-<br>
-
-*Thanks to sh20raj for inspirations on this profile design.*
 
 </div>
