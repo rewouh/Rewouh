@@ -4,7 +4,7 @@
 
 22 yo CS engineering student.
 <br>
-I like challenging myself harder and harder, discovering new tools and everything related to AI.</br>
+AI enthusiast.</br>
   
 <br>
 <br>
