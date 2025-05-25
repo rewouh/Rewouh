@@ -9,7 +9,6 @@ AI enthusiast.</br>
 <br>
 <br>
 
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Rewouh&bg_color=30,96294d,f0c76e&title_color=fff&text_color=fff)
 ### know-how
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
